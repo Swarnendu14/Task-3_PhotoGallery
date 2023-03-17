@@ -14,17 +14,17 @@
     font-family: system-ui;
     display: flex;
     justify-content:center;
-    padding-top: 1.5rem;
+    padding-top: 2rem;
     padding-left: 5rem;
     padding-right: 5rem;
+    padding-bottom: 0rem;
 }
 .bio{
     color: white;
-    font-size: 0.6cm;
+    font-size: 20px;
     font-family:Tahoma;
-    display: flex;
-    justify-content: center;
-    margin: 0.5rem;
+    text-align:center;
+    margin: 1rem;
 }
 
 .body{
@@ -39,7 +39,7 @@
     display: inline-block;
     box-shadow: 0px 0px 20px black;
     border-radius: 8px; 
-    margin: 2.5%;
+    margin: 2.6%;
 }
 .card:hover{
     width: 45%;
